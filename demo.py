@@ -5,5 +5,5 @@ for x in numb:
     nu += x
 print(nu)
 print("Python program executed succesfully")
-print("welcome to linux")
+print("welcome BALA")
 
