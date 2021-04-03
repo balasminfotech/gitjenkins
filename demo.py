@@ -5,3 +5,4 @@ for x in numb:
     nu += x
 print(nu)
 print("YOUR Python program executed succesfully")
+print("welcome")
